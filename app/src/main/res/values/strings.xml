@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TugasAndroid</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Home">Halaman Home Fragment</string>
+    <string name="Satu">Fragment Satu</string>
+    <string name="dua">Fragment Dua</string>
+    <string name="Halaman1">Halaman Fragment Satu</string>
+    <string name="Halaman2">Halaman Fragment Dua</string>
+</resources>
